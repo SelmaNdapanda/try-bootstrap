@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Selma Hamutenya Portfolio Project
+# Bootstrap Portfolio Project
 
-> This is my portfolio website to showcase my skills and projects. 
+> In this excercise, we will experience the power of using a CSS framework like Bootstrap to create a new website quickly from scratch in few hours.
 
 
 ## Built With
