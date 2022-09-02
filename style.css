@@ -572,3 +572,134 @@ hr.solid {
   width: 100%;
   margin-left: 0;
 }
+
+footer {
+  margin: 0;
+  height: 779px;
+  border-radius: 76px 0 0 0;
+  background-color: #6070ff;
+  margin-top: 75px;
+  position: absolute;
+}
+
+.contact {
+  background: #6070ff;
+  box-sizing: border-box;
+  padding: 103px 24px 8px 24px;
+  border-radius: 76px 0 0 0;
+  background-image: url("images/contactformbackgroundshapesdesktop.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  width: 99vmax;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+}
+
+.contact-title {
+  display: flex;
+  margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
+  color: #ffff;
+  align-items: center;
+  text-align: center;
+  font-style: normal;
+  line-height: 52px;
+  font-size: 40px;
+  font-weight: 700;
+  padding-bottom: 0;
+}
+
+.contact-description {
+  font-family: "poppins", sans-serif;
+  width: 569px;
+  height: 102px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  color: #ebebff;
+  transition: all 0.35s ease-in;
+}
+
+.contact-description:hover {
+  transform: translate(7%);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  margin-right: 24px;
+  margin-left: 24px;
+}
+
+input {
+  background: #fff;
+  width: 447px;
+  height: 48px;
+  margin: 10px 0 10px 0;
+  padding-left: 20px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  color: #172b4d;
+  border: 1px solid #cfd8dc;
+  border-radius: 2px;
+}
+
+textarea {
+  background: #fff;
+  width: 447px;
+  height: 170px;
+  padding-left: 20px;
+  padding-top: 10px;
+  margin-top: 10px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 24px;
+  color: #b3bac5;
+  border: 1px solid #cfd8dc;
+  border-radius: 2px;
+}
+
+.flex-item6 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  letter-spacing: 0.03em;
+  background: #fff;
+  border-radius: 8px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  padding: 12px 16px;
+  color: #396df2;
+  border: 1px solid #3d4ee4;
+  width: 150px;
+  margin-top: 250px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button:hover {
+  background: #8f9afc;
+  color: white;
+  cursor: pointer;
+}
+
+button:active {
+  background: #0416b6;
+  color: white;
+}
