@@ -1,6 +1,7 @@
 body {
   overflow-x: hidden;
 }
+
 .navbar-brand {
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -193,7 +194,7 @@ h2.title {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 496px;
+  width: 90%;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
@@ -299,6 +300,7 @@ h2.title {
   font-weight: 400;
   font-style: normal;
   line-height: 24px;
+  width: 90%;
 }
 
 .tags {
